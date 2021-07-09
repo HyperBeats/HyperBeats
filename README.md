@@ -1,4 +1,4 @@
-### Hi there, I'm [Chase](https://chse.dev/)! 👋
+### Hi there, I'm [HyperBeats](https://hyperbeats.me/)! 👋
 
 <!-- Hi, I'm Chase, a passionate self-taught web developer from the United States. -->
 
@@ -12,7 +12,7 @@
 *NOTE: Top languages don't indicate my skill level, it's just a GitHub metric of languages I have the most code for on GitHub.*
 -->
 
-<a href="https://github.com/ChxseH">
+<a href="https://github.com/HyperBeats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyperbeats&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide=prs,issues" alt="Chase's GitHub Stats" />
 </a>
 
