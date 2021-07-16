@@ -1,4 +1,4 @@
-<h1 align="center">HELLO WORLD</h1>
+<h1 align="center">HELLO</h1>
 
 <p align="center">
   <br><br>
@@ -11,6 +11,15 @@
 👤 >> 18 years old, french developper.
 ```
 #
+<h1 align="center">LEARN</h1>
+
+<p align="center"> 
+  <code><img height="25" src="https://cdn.discordapp.com/attachments/864145498960166932/865717870180565022/twitter-removebg-preview.png"></code>&nbsp; |
+  <code><img height="25" src="https://cdn.discordapp.com/attachments/864145498960166932/865717871227961344/discord-removebg-preview.png"></code>&nbsp; |
+  <code><img height="25" src="https://cdn.discordapp.com/attachments/864145498960166932/865717872281518080/gmail-removebg-preview.png"></code>&nbsp;
+</p>
+
+
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/HyperBeats?style=social">
