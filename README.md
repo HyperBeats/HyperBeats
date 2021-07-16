@@ -1,27 +1,25 @@
-### Hi there, I'm [HyperBeats](https://hyperbeats.me/)! 👋
+<h1 align="center">HELLO WORLD</h1>
 
-<!-- Hi, I'm Chase, a passionate self-taught web developer from the United States. -->
+<p align="center">
+  <br><br>
+  <img src="https://cdn.discordapp.com/attachments/834881794289041469/865714899786793020/103142.gif">
+  <br><br>
+</p>
 
-<!-- - 🔭 I’m currently working on various things for the [Plutonium Project](https://plutonium.pw), [X Labs](https://xlabs.dev), and [sm²](https://sm2.gg). -->
-<!-- - 🌱 I’m currently learning xxx. -->
-<!-- - 💬 Ask me about anything [here](mailto:c@chse.dev). -->
+#
+```diff
+👤 >> 18 years old, french developper.
+```
+#
+<h1 align="center">STATS FOR NERDS</h1>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/HyperBeats?style=social">
+  <img src="https://img.shields.io/github/stars/HyperBeats?style=social">
+  <img src="https://komarev.com/ghpvc/?username=HyperBeats&color=blue">
+</p>
 
-<!--
- **Languages and Tools:**  
+<img src="https://activity-graph.herokuapp.com/graph?username=hyperbeats">
 
-*NOTE: Top languages don't indicate my skill level, it's just a GitHub metric of languages I have the most code for on GitHub.*
--->
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyperBeats&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Its-Vichy's stats" /> </p>
 
-<a href="https://github.com/HyperBeats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyperbeats&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide=prs,issues" alt="Chase's GitHub Stats" />
-</a>
-
-<a href="https://github.com/ChxseH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperbeats&layout=compact&theme=radical" />
-</a>
-
-<br>
-<br>
-
-❤️ 
-
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperBeats&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
