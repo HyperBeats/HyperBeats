@@ -11,7 +11,7 @@
 👤 >> 18 years old, french developper.
 ```
 #
-<h1 align="center">LEARN</h1>
+<h1 align="center">CONTACT</h1>
 
 <p align="center"> 
   <code><img height="25" src="https://cdn.discordapp.com/attachments/864145498960166932/865717870180565022/twitter-removebg-preview.png"></code>&nbsp; |
