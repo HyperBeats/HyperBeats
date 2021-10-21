@@ -19,8 +19,9 @@
   <code><img height="25" src="https://cdn.discordapp.com/attachments/864145498960166932/865717872281518080/gmail-removebg-preview.png"></code>&nbsp;
 </p>
 
+<p align="center"> 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c3836b751d7f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
+</p>
 
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
