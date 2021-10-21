@@ -12,6 +12,7 @@
 ```
 #
 <h1 align="center">CONTACT</h1>
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c3836b751d7f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <p align="center"> 
   <code><img height="25" src="https://cdn.discordapp.com/attachments/864145498960166932/865717870180565022/twitter-removebg-preview.png"></code>&nbsp; |
@@ -32,5 +33,3 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyperBeats&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Its-Vichy's stats" /> </p>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperBeats&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c3836b751d7f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
