@@ -34,6 +34,10 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperBeats&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
 
-<a align="center">
-<a href="https://www.vultr.com/?ref=8957868"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
-</a>
+### <p align="center">👀 &nbsp;Visiteurs</p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/2spy/count.svg" />
+</p>
+<br>
+
