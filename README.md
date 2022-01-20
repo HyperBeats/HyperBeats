@@ -37,7 +37,7 @@
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/2spy/count.svg" />
+  <img src="https://profile-counter.glitch.me/HyperBeats/count.svg" />
 </p>
 <br>
 
