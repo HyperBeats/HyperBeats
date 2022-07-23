@@ -14,9 +14,9 @@
 <h1 align="center">CONTACT</h1>
 
 <p align="center"> 
-  <code><img height="25" src="https://cdn.discordapp.com/attachments/864145498960166932/865717870180565022/twitter-removebg-preview.png"></code>&nbsp; |
-  <code><img height="25" src="https://cdn.discordapp.com/attachments/864145498960166932/865717871227961344/discord-removebg-preview.png"></code>&nbsp; |
-  <code><img height="25" src="https://cdn.discordapp.com/attachments/864145498960166932/865717872281518080/gmail-removebg-preview.png"></code>&nbsp;
+  <code><img height="25" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png"></code>&nbsp;
 </p>
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c3836b751d7f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
