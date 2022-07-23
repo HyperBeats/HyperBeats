@@ -15,7 +15,7 @@
 
 <p align="center"> 
   <code><img height="25" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png"></code>&nbsp; |
-  <code><img height="25" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/65px/discord.png"></code>&nbsp; |
   <code><img height="25" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png"></code>&nbsp;
 </p>
 
