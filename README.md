@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><br>
-  <img src="984/x9i94FGbbN6aNzzuau1_Qh16MmxEEH3SB_xxUhAKWvkgj3wtekK8kQWKl1ZDDGrouAnqbGID2guCS9_H3Nn_4urnx6ZT2QqfpNjNfg.gif?ex=665f9be5&is=665e4a65&hm=cca81f5996c0bd0acb78c017f9c6af8fc4f3671a82ffe708556edabb517a715e&">
+  <img src="https://i.imgur.com/3ibcwMn.gif">
   <br><br>
 </p>
 
