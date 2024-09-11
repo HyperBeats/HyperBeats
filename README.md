@@ -36,7 +36,7 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats-tan-eta.vercel.app/api/top-langs/?username=HyperBeats&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
 
-### <p align="center">👀 &nbsp;Visiteurs</p>
+<h1 align="center">👀 &nbsp;Visiteurs</h1>
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/HyperBeats/count.svg" />
