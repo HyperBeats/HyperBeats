@@ -13,7 +13,7 @@
 <h1 align="center">MY STACKS</h1>
 <p align="center"> 
 
-<img  src="https://skillicons.dev/icons?i=js,html,css,debian,discord,docker,eclipse,git,github,grafana,java,nginx,npm,postgres,py,redhat,tailwind,ubuntu,vercel,vscode,windows,yarn,wordpress,powershell,githubactions,heroku,jquery,kali,laravel,linux">
+<img  src="https://skillicons.dev/icons?i=js,html,css,debian,discord,docker,eclipse,git,github,grafana,java,nginx,npm,postgres,py,redhat,tailwind,ubuntu,vercel,vscode,windows,yarn,wordpress,powershell,githubactions,react,jquery,kali,laravel,linux">
 </p>
 <h1 align="center">CONTACT</h1>
 
